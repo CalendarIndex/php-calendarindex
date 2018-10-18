@@ -4,7 +4,7 @@ Official PHP library for [CalendarIndex API](https://www.calendarindex.com)
 ## Installation
 
 ```shell
-composer require "calendarindex/php-calendarindex:dev-master"
+composer require "calendarindex/php-calendarindex"
 ```
 
 ## Usage
